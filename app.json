@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "truck-advisor",
+    "slug": "truck-advisor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "truck-advisor"
+}
