@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7f462f04-25cb-4d39-9485-468547d585a8"
+      }
+    }
   },
   "name": "truck-advisor"
 }
